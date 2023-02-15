@@ -3,10 +3,10 @@
 # Data Analysis with Python
 
 ## 📄 Summary 
-This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a [final assignment](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/8%20Final-Project%20-%20House_Sales_in_King_Count_USA) - predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
+This course involves using Python to explore many different types of data. It covers how to prepare data for analysis, perform simple statistical analysis, create meaningful data visualizations, predict future trends from data, and more. It concludes with a [final assignment](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/8%20Final-Project%20-%20House_Sales_in_King_Count_USA.ipynb) - predicting of the market prices of houses based on a detailed dataset. Each notebook here is incredibly detailed, and they collectively show the full process of predictive analysis. Some topics, such as data wrangling, have additional associated notebooks, due to the breadth of content covered in this course. 
 
 ## 📑 Main Topics 
-- [Importing datasets](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/1%20Importing%20Datasets)
+- [Importing datasets](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/1%20Importing%20Datasets.ipynb)
   - Understanding the data
   - Importing and exporting data in Python
 
@@ -14,30 +14,33 @@ This course involves using Python to explore many different types of data. It co
   - Thus, it is mandatory for any data scientist (or data engineer) to be aware of different file formats, common challenges in handling them and the best, most efficient ways to handle this data in real life.
   - There are various formats for a dataset, .csv, .json, .xlsx etc. The dataset can be stored in different places, on your local machine or sometimes online.
 
-- [Data wrangling](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/3%20Data-Wrangling)
+- [Data wrangling](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/3%20Data-Wrangling.ipynb)
   - Identifying and handling missing values
   - Data formatting
   - Data normalization
   - Binning
   - Indicator variables
-- [Exploratory Data Analysis](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/4%20Exploratory-Data-Analysis%20(%20jupyterlite%20)
+- [Exploratory Data Analysis](
+https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/4)%20Exploratory-Data-Analysis%20(%20jupyterlite%20).ipynb
+)
   - Summarizing main characteristics of the data
   - Gaining better understanding of the data set
   - Uncovering relationships between the variables
   - Extracting important variables
-- [Model Development](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/5%20Model-Development)
+- [Model Development](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/5%20Model-Development.ipynb
+)
   - Simple and Multiple Linear Regression
   - Model Evaluation Using Visualization
   - Polynomial Regression and Pipelines
   - R-squared and MSE for In-Sample Evaluation
   - Prediction and Decision Making
-- [Model Evaluation and Refinement](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/6%20Model_Evaluation_and_Refinement__Google_Colab_)
+- [Model Evaluation and Refinement](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/6%20Model_Evaluation_and_Refinement__Google_Colab_.ipynb)
   - Over-fitting, under-fitting and model selection
   - Ridge regression
   - GridSearch
   - Model refinement
 
-- [Auto_EDA_Dataprep](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/7%20Auto_EDA_Dataprep%20%20IBM%20)
+- [Auto_EDA_Dataprep](https://github.com/PramodRawat157/Data-Analysis-with-Python---IBM-Data-Science/blob/main/7%20Auto_EDA_Dataprep%20%20IBM%20.ipynb)
   - DataPrep is an open-source library available for python that lets you prepare your data using a single library with only a few lines of code. 
   - DataPrep can be used to address multiple data-related problems, and the library provides numerous features through which every problem can be solved and taken care of.
 
